@@ -4,11 +4,11 @@ namespace Algorithm
 {
     public class Finder
     {
-        private readonly List<Person> _persons;
+        private readonly List<Person> _people;
 
         public Finder(List<Person> persons)
         {
-            _persons = persons;
+            _people = persons;
         }
 
         public FinderResult Find(FindingType findingType)
@@ -66,9 +66,9 @@ namespace Algorithm
         {
             List<FinderResult> FinderResultsList = new List<FinderResult>();
 
-            for (int i = 0; i < _persons.Count - 1; i++)
+            for (int i = 0; i < _people.Count - 1; i++)
             {
-                for (int j = i + 1; j < _persons.Count; j++)
+                for (int j = i + 1; j < _people.Count; j++)
                 {
                     FinderResult finderResult = CreateFinderResult(i, j);
                     FinderResultsList.Add(finderResult);
@@ -82,15 +82,15 @@ namespace Algorithm
         {
             FinderResult finderResult = new FinderResult();
 
-            if (_persons[i].BirthDate < _persons[j].BirthDate)
+            if (_people[i].BirthDate < _people[j].BirthDate)
             {
-                finderResult.PersonWithEarliestBirthDate = _persons[i];
-                finderResult.PersonWithMostCurrentBirthDate = _persons[j];
+                finderResult.PersonWithEarliestBirthDate = _people[i];
+                finderResult.PersonWithMostCurrentBirthDate = _people[j];
             }
             else
             {
-                finderResult.PersonWithEarliestBirthDate = _persons[j];
-                finderResult.PersonWithMostCurrentBirthDate = _persons[i];
+                finderResult.PersonWithEarliestBirthDate = _people[j];
+                finderResult.PersonWithMostCurrentBirthDate = _people[i];
             }
 
             finderResult.TimeBetweenBirthdays = finderResult.PersonWithMostCurrentBirthDate.BirthDate - finderResult.PersonWithEarliestBirthDate.BirthDate;
