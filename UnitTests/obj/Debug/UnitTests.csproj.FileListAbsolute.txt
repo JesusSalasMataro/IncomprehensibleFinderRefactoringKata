@@ -1,0 +1,7 @@
+C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\UnitTests\bin\Debug\UnitTests.dll
+C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\UnitTests\bin\Debug\UnitTests.pdb
+C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\UnitTests\bin\Debug\Algorithm.dll
+C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\UnitTests\bin\Debug\Algorithm.pdb
+C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\UnitTests\obj\Debug\UnitTests.dll
+C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\UnitTests\obj\Debug\UnitTests.pdb

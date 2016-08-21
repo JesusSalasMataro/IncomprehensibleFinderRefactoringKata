@@ -1,0 +1,9 @@
+C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\bin\Debug\Algorithm.Tests.dll
+C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\bin\Debug\Algorithm.Tests.pdb
+C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\bin\Debug\Algorithm.dll
+C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\bin\Debug\xunit.dll
+C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\bin\Debug\Algorithm.pdb
+C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\bin\Debug\xunit.xml
+C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\obj\Debug\Algorithm.Tests.csprojResolveAssemblyReference.cache
+C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\obj\Debug\Algorithm.Tests.dll
+C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\Algorithm.Tests\obj\Debug\Algorithm.Tests.pdb
