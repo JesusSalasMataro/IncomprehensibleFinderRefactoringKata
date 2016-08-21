@@ -3,3 +3,8 @@ C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\Algorithm\Algorithm
 C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\Algorithm\Algorithm\obj\Debug\Algorithm.dll
 C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
 C:\Proyectos\Git\incomprehensible-finder-refactoring-c-sharp\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+C:\Proyectos\Git\IncomprehensibleFinderRefactoringKata\Algorithm\Algorithm\bin\Debug\Algorithm.dll
+C:\Proyectos\Git\IncomprehensibleFinderRefactoringKata\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Proyectos\Git\IncomprehensibleFinderRefactoringKata\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+C:\Proyectos\Git\IncomprehensibleFinderRefactoringKata\Algorithm\Algorithm\obj\Debug\Algorithm.dll
+C:\Proyectos\Git\IncomprehensibleFinderRefactoringKata\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
